@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hugo-public/static/css/main.f855e6bc.css",
-    "main.js": "/hugo-public/static/js/main.e454d64a.js",
+    "main.js": "/hugo-public/static/js/main.5bf7f340.js",
     "static/js/453.ea535d1f.chunk.js": "/hugo-public/static/js/453.ea535d1f.chunk.js",
     "static/media/papertape3.png": "/hugo-public/static/media/papertape3.90283b7e0b03e2bb4152.png",
     "static/media/papertape1.png": "/hugo-public/static/media/papertape1.d8ab1707716185ed7eaa.png",
@@ -22,11 +22,11 @@
     "index.html": "/hugo-public/index.html",
     "static/media/noise.svg": "/hugo-public/static/media/noise.66a2040737c5bc5997a0ef9c70d8237a.svg",
     "main.f855e6bc.css.map": "/hugo-public/static/css/main.f855e6bc.css.map",
-    "main.e454d64a.js.map": "/hugo-public/static/js/main.e454d64a.js.map",
+    "main.5bf7f340.js.map": "/hugo-public/static/js/main.5bf7f340.js.map",
     "453.ea535d1f.chunk.js.map": "/hugo-public/static/js/453.ea535d1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.e454d64a.js"
+    "static/js/main.5bf7f340.js"
   ]
 }
