@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/hugo-public/static/css/main.f855e6bc.css",
+    "main.js": "/hugo-public/static/js/main.14abe4e1.js",
+    "static/js/453.ea535d1f.chunk.js": "/hugo-public/static/js/453.ea535d1f.chunk.js",
+    "static/media/cv.jpg": "/hugo-public/static/media/cv.ad652d0ba0917ab47030.jpg",
+    "static/media/papertape3.png": "/hugo-public/static/media/papertape3.90283b7e0b03e2bb4152.png",
+    "static/media/portrait.jpg": "/hugo-public/static/media/portrait.b090f7996a55a150f737.jpg",
+    "static/media/papertape1.png": "/hugo-public/static/media/papertape1.d8ab1707716185ed7eaa.png",
+    "static/media/papertape5.png": "/hugo-public/static/media/papertape5.8fe8ce1bb8e0d61649c5.png",
+    "static/media/papertape2.png": "/hugo-public/static/media/papertape2.216a4151d36eecbfaec5.png",
+    "static/media/papertape4.png": "/hugo-public/static/media/papertape4.74b5f82c27d7391d8af9.png",
+    "static/media/backgroundNoBlur.png": "/hugo-public/static/media/backgroundNoBlur.b3aa6c4ad5985e24c6cf.png",
+    "static/media/contact.png": "/hugo-public/static/media/contact.d893fb906d8397a81c11.png",
+    "static/media/plan.png": "/hugo-public/static/media/plan.b9c3ea45f596ec77d56b.png",
+    "static/media/texture.jpg": "/hugo-public/static/media/texture.f98a0480627c3cec902d.jpg",
+    "static/media/instruction.png": "/hugo-public/static/media/instruction.317b48f6681a5ffbd308.png",
+    "static/media/mail.svg": "/hugo-public/static/media/mail.ae3271247fcff0f92349d28d57fc1032.svg",
+    "static/media/xing.svg": "/hugo-public/static/media/xing.28063d8e36a979bd86e06abd8a3d16ac.svg",
+    "static/media/externalUrl.svg": "/hugo-public/static/media/externalUrl.21d03da2cca8133483a2a6f8abb5a89b.svg",
+    "static/media/arrow1.svg": "/hugo-public/static/media/arrow1.a4ae029c7a4957842cc5248b361fb18a.svg",
+    "static/media/dot.svg": "/hugo-public/static/media/dot.811f368d5f64551ea2bbb19d78967c51.svg",
+    "index.html": "/hugo-public/index.html",
+    "static/media/noise.svg": "/hugo-public/static/media/noise.66a2040737c5bc5997a0ef9c70d8237a.svg",
+    "main.f855e6bc.css.map": "/hugo-public/static/css/main.f855e6bc.css.map",
+    "main.14abe4e1.js.map": "/hugo-public/static/js/main.14abe4e1.js.map",
+    "453.ea535d1f.chunk.js.map": "/hugo-public/static/js/453.ea535d1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.14abe4e1.js"
+  ]
+}
